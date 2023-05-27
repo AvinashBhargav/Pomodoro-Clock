@@ -38,7 +38,7 @@ This project is a simple implementation of a Pomodoro timer in Python. The Pomod
 1. Run the Python script:
 
    ```shell
-   python pomodoro_timer.py
+   python Pomodoro-Clock.py
    ```
 
 2. The program will display messages indicating the work and break phases as per the specified time intervals.
